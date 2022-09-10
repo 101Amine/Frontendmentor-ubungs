@@ -568,13 +568,19 @@
     height: 50px;
     border-radius: 20px;
     color: white;
+
   }
 
   .footerHeader .btn:hover {
     transition: ease-in 0.4s;
     transform: scale(-5px);
     background-color: var(--clr-secondary);
-    
+  }
+
+
+  .footerHeader:hover{
+    box-shadow: 11px 0px 30px -10px rgba(18, 72, 84, 0.318);
+
   }
 
 
