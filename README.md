@@ -1,7 +1,7 @@
 # Frontendmentor-ubungs
 
 
-🤯 The main struggle I had with this challenge was positioning the hero-image overlapping the container.
+🤯 The main struggle I had with this challenge was having some items on the page that are perfectly aligned i've successed to do that with adding a max-width on these elements.
 
 • What i've learnt so far is :
 
